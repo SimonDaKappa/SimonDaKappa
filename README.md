@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SimonDaKappa
+- 👀 I’m interested in Optimization, Numerical Methods, Reinforcement Learning, Machine Learnin, and Data Science
+- 🌱 I’m currently learning Mathematics, Computer Science, and Machine Learning at RPI
