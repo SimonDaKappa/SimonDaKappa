@@ -119,7 +119,7 @@ if __name__ == "__main__":
     I've been coding for 4 years, trying to expose myself to as many technologies as possible. I've recently started to track all my progress, so see
     a list with my most used languages below!
 
-    {lang_exp_table}
+    {md_table}
     """
 
     with open(readme_path, 'w') as f:
