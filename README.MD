@@ -1,5 +1,5 @@
 
-    [![wakatime](https://wakatime.com/badge/user/50e6c678-94a9-4739-af51-360aeb113c51.svg)](https://wakatime.com/@50e6c678-94a9-4739-af51-360aeb113c51)
+[![wakatime](https://wakatime.com/badge/user/50e6c678-94a9-4739-af51-360aeb113c51.svg)](https://wakatime.com/@50e6c678-94a9-4739-af51-360aeb113c51)
 
     - 👋 Hi, I’m @SimonDaKappa
     - 👀 I’m interested in Optimization, Numerical Methods, Reinforcement Learning, Machine Learning, and whatever the breeze brings.
