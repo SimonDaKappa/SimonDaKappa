@@ -1,9 +1,10 @@
-name: Build Profile README
+name: Build README
 
 on:
   push:
   workflow_dispatch:
-  schedule: '32 * * * *'
+  schedule:
+    - cron:  '32 * * * *'
 
 jobs:
   build:
