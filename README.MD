@@ -14,5 +14,7 @@ a list with my most used languages below!
 
 | Language | Level | Total XP | XP gained (last 12 hours) |
 | --- | --- | --- | --- |
-| JSON | 0 | 31 | 0 |
+| JSON | 0 | 32 | 1 |
+| TypeScript | 0 | 27 | 27 |
 | Log | 0 | 11 | 0 |
+| Shell Script | 0 | 1 | 1 |
