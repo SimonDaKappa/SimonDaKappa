@@ -7,7 +7,7 @@
 
 My **Current Projects** 
 - A full-stack rewrite of NeRF-Or-Nothing; A micro-service Deep Learning powered 3D video reconstruction application.
-- A distributed key-value store with RESTful api access written in Erlang.
+- A distributed key-value BSON store with RESTful api access written in Elixir.
 
 I've been coding for 4 years, trying to expose myself to as many technologies as possible. I've recently started to track all my progress, so see
 a list with my most used languages below!
@@ -16,9 +16,10 @@ a list with my most used languages below!
 | --- | --- | --- | --- |
 | Elixir | 1 | 2k | 2k |
 | Erlang | 0 | 189 | 189 |
+| TypeScript (JSX) | 0 | 147 | 147 |
 | Plain text | 0 | 58 | 58 |
+| TypeScript | 0 | 46 | 19 |
 | JSON | 0 | 36 | 4 |
-| TypeScript | 0 | 27 | 0 |
 | Log | 0 | 11 | 0 |
 | Properties | 0 | 6 | 0 |
 | Shell Script | 0 | 1 | 0 |
