@@ -14,7 +14,10 @@ a list with my most used languages below!
 
 | Language | Level | Total XP | XP gained (last 12 hours) |
 | --- | --- | --- | --- |
-| JSON | 0 | 32 | 0 |
+| Erlang | 0 | 189 | 189 |
+| Elixir | 0 | 160 | 160 |
+| Plain text | 0 | 58 | 58 |
+| JSON | 0 | 36 | 4 |
 | TypeScript | 0 | 27 | 0 |
 | Log | 0 | 11 | 0 |
 | Properties | 0 | 6 | 0 |
