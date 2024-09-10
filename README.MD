@@ -17,5 +17,5 @@ a list with my most used languages below!
 | JSON | 0 | 32 | 0 |
 | TypeScript | 0 | 27 | 0 |
 | Log | 0 | 11 | 0 |
-| Properties | 0 | 6 | 6 |
+| Properties | 0 | 6 | 0 |
 | Shell Script | 0 | 1 | 0 |
