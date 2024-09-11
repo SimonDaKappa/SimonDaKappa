@@ -16,9 +16,9 @@ a list with my most used languages below!
 | --- | --- | --- | --- |
 | Elixir | 1 | 2k | 0 |
 | Erlang | 0 | 189 | 0 |
-| TypeScript (JSX) | 0 | 147 | 147 |
+| TypeScript (JSX) | 0 | 147 | 0 |
 | Plain text | 0 | 58 | 0 |
-| TypeScript | 0 | 46 | 19 |
+| TypeScript | 0 | 46 | 0 |
 | JSON | 0 | 36 | 0 |
 | Log | 0 | 11 | 0 |
 | Properties | 0 | 6 | 0 |
