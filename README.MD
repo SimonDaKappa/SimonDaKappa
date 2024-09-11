@@ -14,7 +14,7 @@ a list with my most used languages below!
 
 | Language | Level | Total XP | XP gained (last 12 hours) |
 | --- | --- | --- | --- |
-| Elixir | 1 | 2k | 1.85k |
+| Elixir | 1 | 2k | 0 |
 | Erlang | 0 | 189 | 0 |
 | TypeScript (JSX) | 0 | 147 | 147 |
 | Plain text | 0 | 58 | 0 |
