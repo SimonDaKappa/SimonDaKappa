@@ -18,9 +18,9 @@ a list with my most used languages below!
 | Erlang | 0 | 189 | 0 |
 | Terminal (Zsh) | 0 | 176 | 0 |
 | TypeScript (JSX) | 0 | 147 | 0 |
-| Plain text | 0 | 61 | 0 |
+| Markdown | 0 | 113 | 113 |
+| Plain text | 0 | 63 | 2 |
 | TypeScript | 0 | 46 | 0 |
 | JSON | 0 | 36 | 0 |
 | Log | 0 | 11 | 0 |
 | Properties | 0 | 6 | 0 |
-| Shell Script | 0 | 1 | 0 |
