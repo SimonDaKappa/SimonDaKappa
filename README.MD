@@ -14,7 +14,7 @@ a list with my most used languages below!
 
 | Language | Level | Total XP | XP gained (last 12 hours) |
 | --- | --- | --- | --- |
-| Rust | 2 | 11.5k | 6.35k |
+| Rust | 2 | 11.5k | 6.36k |
 | Elixir | 1 | 5.47k | 0 |
 | Plain text | 0 | 252 | 132 |
 | Erlang | 0 | 189 | 0 |
