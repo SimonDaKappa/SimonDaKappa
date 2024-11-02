@@ -21,6 +21,6 @@ a list with my most used languages below!
 | TypeScript (JSX) | 0 | 147 | 0 |
 | Plain text | 0 | 120 | 57 |
 | Markdown | 0 | 113 | 0 |
-| JSON | 0 | 90 | 54 |
+| JSON | 0 | 90 | 49 |
 | TypeScript | 0 | 46 | 0 |
 | Log | 0 | 11 | 0 |
