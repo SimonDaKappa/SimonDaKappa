@@ -23,4 +23,4 @@ a list with my most used languages below!
 | JSON | 0 | 115 | 8 |
 | Markdown | 0 | 113 | 0 |
 | TypeScript | 0 | 46 | 0 |
-| Log | 0 | 11 | 0 |
+| C++ | 0 | 30 | 30 |
