@@ -18,7 +18,7 @@ a list with my most used languages below!
 | Elixir | 1 | 5.47k | 0 |
 | C++ | 0 | 852 | 41 |
 | C | 0 | 722 | 722 |
-| Plain text | 0 | 311 | 0 |
+| Plain text | 0 | 315 | 4 |
 | Erlang | 0 | 189 | 0 |
 | Terminal (Zsh) | 0 | 176 | 0 |
 | TypeScript (JSX) | 0 | 147 | 0 |
