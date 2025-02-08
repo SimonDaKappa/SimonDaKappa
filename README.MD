@@ -16,7 +16,7 @@ a list with my most used languages below!
 | --- | --- | --- | --- |
 | Rust | 3 | 18.5k | 0 |
 | Elixir | 1 | 5.47k | 0 |
-| C++ | 1 | 2.12k | 1.27k |
+| C++ | 1 | 2.12k | 1.26k |
 | C | 0 | 1.08k | 363 |
 | Java | 0 | 926 | 926 |
 | Plain text | 0 | 315 | 0 |
