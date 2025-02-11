@@ -19,7 +19,7 @@ a list with my most used languages below!
 | C++ | 1 | 3.6k | 1.48k |
 | C | 1 | 2.98k | 1.89k |
 | Java | 0 | 933 | 7 |
-| JSON | 0 | 323 | 192 |
+| JSON | 0 | 323 | 152 |
 | Plain text | 0 | 315 | 0 |
 | Erlang | 0 | 189 | 0 |
 | Terminal (Zsh) | 0 | 176 | 0 |
