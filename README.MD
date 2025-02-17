@@ -15,11 +15,11 @@ a list with my most used languages below!
 | Language | Level | Total XP | XP gained (last 12 hours) |
 | --- | --- | --- | --- |
 | Rust | 3 | 18.5k | 0 |
-| C++ | 2 | 9.02k | 26 |
+| C++ | 2 | 9.27k | 269 |
 | Elixir | 1 | 5.47k | 0 |
-| C | 1 | 4.18k | 4 |
+| C | 1 | 4.29k | 117 |
 | Java | 0 | 1.17k | 0 |
-| JSON | 0 | 355 | 0 |
+| JSON | 0 | 371 | 16 |
 | Plain text | 0 | 315 | 0 |
 | Erlang | 0 | 189 | 0 |
 | Terminal (Zsh) | 0 | 176 | 0 |
