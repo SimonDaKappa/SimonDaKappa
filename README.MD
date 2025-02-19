@@ -21,6 +21,6 @@ a list with my most used languages below!
 | Java | 0 | 1.17k | 0 |
 | JSON | 0 | 383 | 0 |
 | Plain text | 0 | 315 | 0 |
+| Go | 0 | 248 | 248 |
 | Erlang | 0 | 189 | 0 |
 | Terminal (Zsh) | 0 | 176 | 0 |
-| TypeScript (JSX) | 0 | 147 | 0 |
