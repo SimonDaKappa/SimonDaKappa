@@ -15,7 +15,7 @@ a list with my most used languages below!
 | Language | Level | Total XP | XP gained (last 12 hours) |
 | --- | --- | --- | --- |
 | Rust | 3 | 18.5k | 0 |
-| C++ | 3 | 17k | 488 |
+| C++ | 3 | 17k | 470 |
 | Elixir | 1 | 5.47k | 0 |
 | C | 1 | 4.58k | 0 |
 | Java | 0 | 1.17k | 0 |
