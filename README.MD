@@ -22,5 +22,5 @@ a list with my most used languages below!
 | Terminal (Zsh) | 1 | 2.91k | 0 |
 | Java | 0 | 1.17k | 0 |
 | JSON | 0 | 480 | 0 |
-| Plain text | 0 | 468 | 0 |
+| Plain text | 0 | 477 | 9 |
 | Shell Script | 0 | 426 | 0 |
