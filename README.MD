@@ -23,4 +23,4 @@ a list with my most used languages below!
 | Java | 0 | 1.17k | 0 |
 | Markdown | 0 | 892 | 779 |
 | JSON | 0 | 488 | 8 |
-| Plain text | 0 | 478 | 10 |
+| Plain text | 0 | 478 | 1 |
