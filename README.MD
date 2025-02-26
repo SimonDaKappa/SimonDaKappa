@@ -19,8 +19,8 @@ a list with my most used languages below!
 | Go | 2 | 11.9k | 1.49k |
 | Elixir | 1 | 5.47k | 0 |
 | C | 1 | 4.72k | 0 |
-| Terminal (Zsh) | 1 | 4.16k | 655 |
+| Terminal (Zsh) | 1 | 4.22k | 711 |
 | Java | 0 | 1.17k | 0 |
 | Markdown | 0 | 892 | 0 |
-| Docker | 0 | 588 | 588 |
-| dockercompose | 0 | 554 | 554 |
+| dockercompose | 0 | 798 | 798 |
+| Docker | 0 | 653 | 653 |
