@@ -16,10 +16,10 @@ a list with my most used languages below!
 | --- | --- | --- | --- |
 | Rust | 3 | 18.5k | 0 |
 | C++ | 3 | 18.2k | 0 |
-| Go | 2 | 11.8k | 1.42k |
+| Go | 2 | 11.9k | 1.49k |
 | Elixir | 1 | 5.47k | 0 |
 | C | 1 | 4.72k | 0 |
-| Terminal (Zsh) | 1 | 4.04k | 534 |
+| Terminal (Zsh) | 1 | 4.16k | 655 |
 | Java | 0 | 1.17k | 0 |
 | Markdown | 0 | 892 | 0 |
 | Docker | 0 | 588 | 588 |
