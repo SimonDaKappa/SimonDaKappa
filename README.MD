@@ -14,8 +14,8 @@ a list with my most used languages below!
 
 | Language | Level | Total XP | XP gained (last 12 hours) |
 | --- | --- | --- | --- |
+| C++ | 3 | 20.4k | 2.13k |
 | Rust | 3 | 18.5k | 0 |
-| C++ | 3 | 18.2k | 8 |
 | Go | 3 | 15.7k | 0 |
 | Terminal (Zsh) | 1 | 6.04k | 69 |
 | Markdown | 1 | 5.6k | 1.14k |
