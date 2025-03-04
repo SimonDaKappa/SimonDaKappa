@@ -14,13 +14,13 @@ a list with my most used languages below!
 
 | Language | Level | Total XP | XP gained (last 12 hours) |
 | --- | --- | --- | --- |
-| C++ | 4 | 27.4k | 3.89k |
-| Go | 3 | 19.8k | 689 |
+| C++ | 4 | 28.1k | 4.54k |
+| Go | 3 | 20.1k | 1.03k |
 | Rust | 3 | 18.5k | 0 |
-| Terminal (Zsh) | 2 | 6.67k | 369 |
+| Terminal (Zsh) | 2 | 6.75k | 442 |
 | Markdown | 1 | 5.61k | 0 |
 | Elixir | 1 | 5.47k | 0 |
 | C | 1 | 4.93k | 194 |
 | Java | 0 | 1.17k | 0 |
-| dockercompose | 0 | 980 | 24 |
+| dockercompose | 0 | 998 | 42 |
 | Docker | 0 | 883 | 0 |
