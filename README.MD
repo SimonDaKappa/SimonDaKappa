@@ -9,14 +9,14 @@
 My **Current Projects** 
 - A full-stack rewrite of NeRF-Or-Nothing; A micro-service Deep Learning powered 3D video reconstruction application.
 - A full-stack RAG Chatbot, with Knowledge Graph / Embedding Community Optimization, and CI/CD pipeline integration.
-
+  - (This one is private, sorry)
 I've been coding for 4 years, trying to expose myself to as many technologies as possible. I've recently started to track all my progress, so see
 a list with my most used languages below!
 
 | Language | Level | Total XP | XP gained (last 12 hours) |
 | --- | --- | --- | --- |
 | Go | 4 | 37.2k | 10.2k |
-| C++ | 4 | 32.7k | 1.83k |
+| C++ | 4 | 32.9k | 2.02k |
 | Rust | 3 | 18.5k | 0 |
 | Terminal (Zsh) | 2 | 8.13k | 644 |
 | Markdown | 1 | 5.75k | 146 |
