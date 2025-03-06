@@ -116,7 +116,7 @@ if __name__ == "__main__":
 My **Current Projects** 
 - A full-stack rewrite of NeRF-Or-Nothing; A micro-service Deep Learning powered 3D video reconstruction application.
 - A full-stack RAG Chatbot, with Knowledge Graph / Embedding Community Optimization, and CI/CD pipeline integration.
-
+  - (This one is private, sorry)
 I've been coding for 4 years, trying to expose myself to as many technologies as possible. I've recently started to track all my progress, so see
 a list with my most used languages below!
 
