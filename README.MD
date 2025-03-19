@@ -24,4 +24,4 @@ a list with my most used languages below!
 | Python | 2 | 6.75k | 0 |
 | TypeScript | 1 | 5.73k | 0 |
 | Elixir | 1 | 5.47k | 0 |
-| C | 1 | 5.21k | 27 |
+| C | 1 | 5.22k | 37 |
