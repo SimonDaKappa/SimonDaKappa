@@ -20,7 +20,7 @@ a list with my most used languages below!
 | TypeScript (JSX) | 3 | 21k | 0 |
 | Rust | 3 | 18.5k | 0 |
 | Terminal (Zsh) | 3 | 15.5k | 328 |
-| Markdown | 2 | 11.7k | 3.38k |
+| Markdown | 3 | 14.8k | 6.5k |
 | Python | 2 | 8.53k | 98 |
 | C | 2 | 8.11k | 653 |
 | TypeScript | 1 | 6k | 0 |
