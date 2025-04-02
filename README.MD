@@ -21,7 +21,7 @@ a list with my most used languages below!
 | Markdown | 3 | 20.4k | 0 |
 | Rust | 3 | 18.5k | 0 |
 | Terminal (Zsh) | 3 | 16k | 0 |
-| Python | 2 | 8.54k | 0 |
+| Python | 2 | 11.3k | 2.77k |
 | C | 2 | 8.13k | 0 |
 | TypeScript | 1 | 6k | 0 |
 | Elixir | 1 | 5.47k | 0 |
