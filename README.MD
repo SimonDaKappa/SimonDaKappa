@@ -18,7 +18,7 @@ a list with my most used languages below!
 | C++ | 6 | 68.1k | 1.47k |
 | Go | 6 | 66.1k | 0 |
 | Python | 5 | 56.9k | 354 |
-| Terminal (Zsh) | 4 | 35.4k | 1.93k |
+| Terminal (Zsh) | 4 | 35.4k | 1.67k |
 | TypeScript (JSX) | 3 | 22.8k | 0 |
 | Markdown | 3 | 20.8k | 287 |
 | Rust | 3 | 18.5k | 0 |
