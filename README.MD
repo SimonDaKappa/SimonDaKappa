@@ -15,7 +15,7 @@ a list with my most used languages below!
 
 | Language | Level | Total XP | XP gained (last 12 hours) |
 | --- | --- | --- | --- |
-| Go | 15 | 395k | 6.21k |
+| Go | 15 | 395k | 5.13k |
 | C++ | 7 | 95.8k | 0 |
 | Terminal (Zsh) | 6 | 77.4k | 443 |
 | Python | 6 | 73k | 0 |
