@@ -115,9 +115,11 @@ if __name__ == "__main__":
 
 My **Current Projects** 
 - A full-stack rewrite of NeRF-Or-Nothing; A micro-service Deep Learning powered 3D video reconstruction application.
-- A full-stack RAG Chatbot, with Knowledge Graph / Embedding Community Optimization, and CI/CD pipeline integration.
+- A full-stack RAG Chatbot, with Knowledge Graph / Embedding Community Optimization, Custom MCP tools, and CI/CD pipeline integration.
   - (This one is private, sorry)
-I've been coding for 4 years, trying to expose myself to as many technologies as possible. I've recently started to track all my progress, so see
+- **go-pave**: A universal parsing and validation libray
+- **go-umami**: A univseral metrics abstraction designed to abstract away integrations with common metrics providers in go.
+I've been developing for 5 years, while trying to expose myself to as many technologies as possible. I've recently started to track all my progress, so see
 a list with my most used languages below!
 
 {md_table}"""
