@@ -26,4 +26,4 @@ a list with my most used languages below!
 | TypeScript | 4 | 34.6k | 0 |
 | C | 4 | 33.7k | 0 |
 | Rust | 3 | 19.8k | 0 |
-| Log | 3 | 16.6k | 83 |
+| Log | 3 | 16.6k | 79 |
