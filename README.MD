@@ -26,4 +26,4 @@ a list with my most used languages below!
 | TypeScript | 5 | 45.6k | 0 |
 | C | 5 | 40.9k | 0 |
 | Rust | 3 | 19.8k | 0 |
-| C# | 3 | 17.8k | 6.49k |
+| C# | 3 | 17.8k | 2.62k |
