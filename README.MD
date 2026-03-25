@@ -18,12 +18,12 @@ a list with my most used languages below!
 | Language | Level | Total XP | XP gained (last 12 hours) |
 | --- | --- | --- | --- |
 | Go | 22 | 784k | 0 |
-| C++ | 11 | 194k | 3.17k |
+| C++ | 11 | 194k | 2.7k |
 | Python | 8 | 127k | 0 |
 | Terminal (Zsh) | 8 | 114k | 0 |
 | Markdown | 8 | 103k | 0 |
 | TypeScript (JSX) | 7 | 80.9k | 0 |
 | TypeScript | 6 | 75.2k | 6.21k |
-| C | 5 | 44k | 56 |
+| C | 5 | 44k | 55 |
 | C# | 3 | 20.9k | 0 |
 | Rust | 3 | 19.8k | 0 |
