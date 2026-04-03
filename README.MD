@@ -24,6 +24,6 @@ a list with my most used languages below!
 | TypeScript | 8 | 110k | 12.6k |
 | Markdown | 8 | 103k | 0 |
 | TypeScript (JSX) | 7 | 80.9k | 0 |
-| C | 5 | 44.7k | 6 |
+| C | 5 | 44.7k | 0 |
 | C# | 3 | 20.9k | 0 |
 | Rust | 3 | 19.8k | 0 |
