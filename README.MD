@@ -26,4 +26,4 @@ a list with my most used languages below!
 | TypeScript (JSX) | 7 | 80.9k | 0 |
 | C | 6 | 65.4k | 0 |
 | C# | 3 | 20.9k | 0 |
-| JSON | 3 | 20.3k | 0 |
+| JSON | 3 | 20.3k | 8 |
