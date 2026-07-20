@@ -25,5 +25,5 @@ a list with my most used languages below!
 | Terminal (Zsh) | 8 | 115k | 0 |
 | TypeScript (JSX) | 7 | 80.9k | 0 |
 | C | 6 | 77.9k | 0 |
-| Log | 3 | 21.2k | 1.2k |
+| Log | 3 | 21.2k | 1.22k |
 | C# | 3 | 20.9k | 0 |
