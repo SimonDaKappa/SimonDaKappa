@@ -122,29 +122,36 @@ An embedded [peppers ghost illusion](https://en.wikipedia.org/wiki/Pepper%27s_gh
   - Device management UI served as a PWA on your local network, making it fully controllable from your phone.
   - A full client marketplace, to download and manage clients at the click of the button.
   - Full network connection pairing pipeline using `hostapd`, `dnsmasq`, `lighttpd`, and `wpa_supplicant` through Captive/Active Portal on your phone.
+
 ---
 
 ## Chat.PAC
 A full-stack RAG Chatbot, with Knowledge Graph / Embedding Community Optimization, Custom MCP tools, and CI/CD pipeline integration. 
-Running custom (domain & nl-to-code finetuned) Qwen3-27B model for IEC 61131-3 Structured Text generation and Qwen3-Embedding-8B for embeddings and retrieval. 
-Featured a pre-computed (on every node) graph-hop query path SQL database for sub-ms GraphRAG performance impact for instant MCP tool call responses.
+
+- Running custom (domain & nl-to-code finetuned) Qwen3-27B model for IEC 61131-3 Structured Text generation and Qwen3-Embedding-8B for embeddings and retrieval. 
+- Featured a pre-computed (on every node) graph-hop query path SQL database for sub-ms GraphRAG performance impact for instant MCP tool call responses.
 
 Powered by Langchain, ChromaDB, Neo4j, FastMCP, Golang, Postgres, Next.JS, vLLM, and RabbitMQ
 
 > (This one is enterprise/private, sorry)
+ 
 ---
 
 ## go-recipe
 A structural-traversal fieldwise execution meta-libray powered by Golang struct tags. 
 
-Designed around hot-path performance with caching at many layers, zero  un-time reflection dependency, and support for any custom domain specific language 
-in your tags. 
+Designed around:
+ - Hot-path performance with caching at many layers.
+ - Zero run-time reflection dependency.
+ - Support for any custom domain specific language in your tags. 
 
 Made to power libraries like [go-pave](https://github.com/SimonDaKappa/go-pave) and [go-mask](), inspired by [go-mapstructure](https://github.com/mitchellh/mapstructure) and [go-playground/validator](https://github.com/go-playground/validator).
+
 ---
 
 Also see [go-umami](https://github.com/SimonDaKappa/go-umami), and my full-stack Gaussian Splatting microservice platform [NeRF-or-Nothing](https://github.com/NeRF-or-Nothing).
 
+# Languages
 {md_table}"""
 
     with open(readme_path, 'w') as f:
