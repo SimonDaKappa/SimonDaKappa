@@ -10,8 +10,8 @@
 
 ## PiGhost 
 An embedded [peppers ghost illusion](https://en.wikipedia.org/wiki/Pepper%27s_ghost) IoT device platform, featuring:
-  - A custom display server protocol inspired by Wayland. 
-  - Client/Server architecture with hand-built OCI runtimes leveraging mixed CFS and Linux-RT cores for client framegen.
+  - Custom display server protocol inspired by Wayland. 
+  - Client/Server architecture with hand-built OCI runtimes leveraging mixed CFS and Linux-RT cores for client frame rendering.
   - Device management UI served as a PWA on your local network, making it fully controllable from your phone.
   - A full client marketplace, to download and manage clients at the click of the button.
   - Full network connection pairing pipeline using `hostapd`, `dnsmasq`, `lighttpd`, and `wpa_supplicant` through Captive/Active Portal on your phone.
@@ -22,7 +22,7 @@ An embedded [peppers ghost illusion](https://en.wikipedia.org/wiki/Pepper%27s_gh
 A full-stack RAG Chatbot, with Knowledge Graph / Embedding Community Optimization, Custom MCP tools, and CI/CD pipeline integration. 
 
 - Running custom (domain & nl-to-code finetuned) Qwen3-27B model for IEC 61131-3 Structured Text generation and Qwen3-Embedding-8B for embeddings and retrieval. 
-- Featured a pre-computed (on every node) graph-hop query path SQL database for sub-ms GraphRAG performance impact for instant MCP tool call responses.
+- Featured a pre-computed (on every node) graph-hop query path SQL database for sub-ms GraphRAG performance impact and instant MCP tool call responses.
 
 Powered by Langchain, ChromaDB, Neo4j, FastMCP, Golang, Postgres, Next.JS, vLLM, and RabbitMQ
 
@@ -31,12 +31,12 @@ Powered by Langchain, ChromaDB, Neo4j, FastMCP, Golang, Postgres, Next.JS, vLLM,
 ---
 
 ## go-recipe
-A structural-traversal fieldwise execution meta-libray powered by Golang struct tags. 
+A structural-traversal fieldwise execution meta-library powered by Golang struct tags. 
 
 Designed around:
  - Hot-path performance with caching at many layers.
  - Zero run-time reflection dependency.
- - Support for any custom domain specific language in your tags. 
+ - Support for your custom domain specific languages in tags. 
 
 Made to power libraries like [go-pave](https://github.com/SimonDaKappa/go-pave) and [go-mask](), inspired by [go-mapstructure](https://github.com/mitchellh/mapstructure) and [go-playground/validator](https://github.com/go-playground/validator).
 
