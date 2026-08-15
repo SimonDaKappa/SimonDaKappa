@@ -48,7 +48,7 @@ Also see [go-umami](https://github.com/SimonDaKappa/go-umami), and my full-stack
 | Language | Level | Total XP | XP gained (last 12 hours) |
 | --- | --- | --- | --- |
 | Go | 22 | 794k | 0 |
-| C++ | 14 | 315k | 3.86k |
+| C++ | 14 | 315k | 3.24k |
 | TypeScript | 11 | 210k | 0 |
 | Markdown | 9 | 159k | 0 |
 | Python | 9 | 134k | 0 |
