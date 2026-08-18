@@ -50,7 +50,7 @@ Also see [go-umami](https://github.com/SimonDaKappa/go-umami), and my full-stack
 | Go | 22 | 794k | 0 |
 | C++ | 14 | 316k | 0 |
 | TypeScript | 11 | 210k | 0 |
-| Markdown | 9 | 159k | 3 |
+| Markdown | 9 | 159k | 0 |
 | Python | 9 | 134k | 0 |
 | C | 8 | 121k | 0 |
 | Terminal (Zsh) | 8 | 115k | 0 |
