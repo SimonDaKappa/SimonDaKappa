@@ -52,7 +52,7 @@ Also see [go-umami](https://github.com/SimonDaKappa/go-umami), and my full-stack
 | TypeScript | 11 | 210k | 0 |
 | Markdown | 9 | 160k | 0 |
 | Python | 9 | 135k | 0 |
-| C | 8 | 129k | 3.24k |
+| C | 8 | 129k | 2.12k |
 | Terminal (Zsh) | 8 | 115k | 0 |
 | TypeScript (JSX) | 7 | 80.9k | 0 |
 | Plain text | 3 | 22.2k | 0 |
