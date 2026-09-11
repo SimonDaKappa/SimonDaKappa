@@ -51,9 +51,9 @@ Also see [go-umami](https://github.com/SimonDaKappa/go-umami), and my full-stack
 | C++ | 14 | 321k | 134 |
 | TypeScript | 11 | 210k | 0 |
 | Markdown | 10 | 160k | 12 |
-| C | 9 | 156k | 5.99k |
+| C | 9 | 156k | 6k |
 | Python | 9 | 135k | 0 |
 | Terminal (Zsh) | 8 | 115k | 0 |
 | TypeScript (JSX) | 7 | 80.9k | 0 |
-| Plain text | 3 | 24k | 0 |
-| JSON | 3 | 22k | 8 |
+| Plain text | 3 | 24k | 2 |
+| JSON | 3 | 22k | 24 |
