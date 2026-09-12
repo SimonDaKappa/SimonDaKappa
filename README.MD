@@ -55,5 +55,5 @@ Also see [go-umami](https://github.com/SimonDaKappa/go-umami), and my full-stack
 | Python | 9 | 135k | 0 |
 | Terminal (Zsh) | 8 | 115k | 0 |
 | TypeScript (JSX) | 7 | 80.9k | 0 |
-| Plain text | 3 | 24k | 1 |
-| JSON | 3 | 22k | 9 |
+| Plain text | 3 | 24k | 0 |
+| JSON | 3 | 22k | 0 |
