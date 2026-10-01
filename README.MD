@@ -56,4 +56,4 @@ Also see [go-umami](https://github.com/SimonDaKappa/go-umami), and my full-stack
 | Terminal (Zsh) | 8 | 115k | 0 |
 | TypeScript (JSX) | 7 | 80.9k | 0 |
 | Shell Script | 3 | 25.3k | 0 |
-| Plain text | 3 | 24.5k | 1 |
+| Plain text | 3 | 24.5k | 0 |
